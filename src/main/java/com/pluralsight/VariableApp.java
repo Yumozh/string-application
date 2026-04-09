@@ -19,6 +19,10 @@ public class VariableApp {
         char myFavouriteLetter = 'Q';
         boolean hasRain = false;
 
-
+        System.out.println();
+        System.out.println("There are " + daysInWeek + " days in a week.");
+        System.out.println("The price on coffee is $" + priceCoffee + ".");
+        System.out.println("My favourite letter is " + myFavouriteLetter + ".");
+        System.out.println("The statement \"rainy outside\" is " + hasRain + ".");
     }
 }
