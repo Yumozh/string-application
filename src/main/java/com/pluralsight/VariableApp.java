@@ -12,5 +12,13 @@ public class VariableApp {
         System.out.println("I started YearUp program in " + yearStartedProgram);
         System.out.println("It is " + hasPet + " that I have a pet.");
         System.out.println(niceWords);
+
+        //Step 2
+        byte daysInWeek = 7;
+        double priceCoffee = 4.99;
+        char myFavouriteLetter = 'Q';
+        boolean hasRain = false;
+
+
     }
 }
